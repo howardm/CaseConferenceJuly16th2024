@@ -334,7 +334,7 @@ A patient with multiple myeloma.
 
 
 
-![](images/caseelevencxr.jpg){width="60%" fig-align="center"}
+![](images/case_elevencxr.jpg){width="60%" fig-align="center"}
 
 
 
