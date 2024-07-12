@@ -1,0 +1,453 @@
+---
+format: 
+  revealjs:
+    logo: images/circle-cropped.png
+    link-external-newwindow: true
+    theme: [dark, mycustom.scss]
+    width: 1600
+    height: 900
+    slide-number: c/t
+    code-line-numbers: false
+    chalkboard: false
+editor: visual
+---
+
+<h1>Thoracic Imaging Case Conference--- July 16th, 2024</h1>
+
+<br>
+
+<header>
+
+<center>
+
+<h2>*Soft Tissues and Bones*</h2>
+
+</center>
+
+</header>
+
+<hr>
+
+<br>
+
+<h2>Howard Mann, M.D.</h2>
+
+<h2>University of Utah School of Medicine</h2>
+
+<br><br><br><br>
+
+<h2>`r fontawesome::fa("envelope", "white")`   howard.mann\@utah.edu</h2>
+
+<h2>`r fontawesome::fa("link", "white")`   [howardmann.us](http://howardmann.us)</h2>
+
+![](images/UhealthLogo.png){.absolute top="325" right="300" width="350"}
+
+## Instructions for viewing the cases
+
+<br> <br>
+
+::: {style="font-size: 1.1em; text-align: center"}
+-   use your keyboard arrow keys to navigate through the slides
+-   you can view the presentation in full screen mode by hitting `f` on your keyboard; hit `esc` to exit
+-   mouse-click through the Tabs; start and end each case with the `Presentation` Tab
+-   there is a menu ![](images/menu-icon.jpg){.center} icon bottom-left that you can use to navigate as well.
+-   please volunteer to discuss a case(s) during the conference!
+:::
+
+## Case one
+
+::: panel-tabset
+### Presentation
+
+Bedside radiography a few days after cardiac surgery. The patient is still in the C.V. I.C.U.
+
+### Imaging
+
+![](images/caseonecxr.jpg){fig-align="center" width="60%"}
+
+
+
+
+
+<!----------------------------- CLOSE PANELSET ----------------------------->
+:::
+
+## Case two
+
+::: panel-tabset
+### Presentation
+
+Blunt chest trauma
+
+### Imaging
+
+
+![](images/casetwocxr.jpg){fig-align="center" width="65%"}
+
+
+`
+
+<!----------------------------- CLOSE PANELSET ----------------------------->
+:::
+
+## Case three
+
+::: panel-tabset
+### Presentation
+
+This person has no symptoms.
+
+### Imaging
+
+<br>
+
+::: columns
+::: {.column width="50%"}
+
+![](images/casethreePA.jpg){width="80%" fig-align="center"}
+
+:::
+
+::: {.column width="50%"}
+![](images/casethreelateral.jpg){width="62%" fig-align="center"}
+:::
+:::
+
+
+
+
+
+<!----------------------------- CLOSE PANELSET ----------------------------->
+:::
+
+## Case four
+
+::: panel-tabset
+### Presentation
+
+You would not see the lesion on chest radiography.
+
+### Imaging One
+
+CT Scout Topogram (Remember to look at these!)
+
+![](images/casefourscouttopogram.jpg){width="45%" fig-align="center"}
+
+### Imaging Two
+
+<br>
+
+::: columns
+::: {.column width="50%"}
+
+![](images/casefourct1.jpg){width="95%" fig-align="center"}
+
+:::
+
+::: {.column width="50%"}
+![](images/casefourct2.jpg){width="90%" fig-align="center"}
+:::
+:::
+
+
+
+
+<!----------------------------- CLOSE PANELSET ----------------------------->
+:::
+
+## Case five
+
+::: panel-tabset
+### Presentation
+
+Acute right lower chest pain soon after a coughing episode.
+
+### Imaging
+
+
+<br>
+
+::: columns
+::: {.column width="50%"}
+
+![](images/casefivect1.jpg){width="98%" fig-align="center"}
+
+:::
+
+::: {.column width="50%"}
+![](images/casefivect2.jpg){width="83%" fig-align="center"}
+:::
+:::
+
+
+
+
+
+<!----------------------------- CLOSE PANELSET ----------------------------->
+:::
+
+## Case six
+
+::: panel-tabset
+### Presentation
+
+The patient is chronically treated for a blood disorder. 
+
+### Imaging one
+
+Ignore the pacemaker.
+
+![](images/casesixcxr.jpg){width="50%" fig-align="center"}
+
+### Imaging two
+
+![](images/casesixct.jpg){width="50%" fig-align="center"}
+
+
+
+
+
+
+
+<!----------------------------- CLOSE PANELSET ----------------------------->
+:::
+
+## Case seven
+
+::: panel-tabset
+### Presentation
+
+This patient has received a course of antibiotics for an acute febrile respiratory illness, is not feeling better, and has more chest pain.
+
+### Imaging One
+
+
+![](images/casesevencxr.jpg){width="55%" fig-align="center"}
+
+### Imaging two
+
+![](images/casesevenct.jpg){width="60%" fig-align="center"}
+
+
+
+
+<!----------------------------- CLOSE PANELSET ----------------------------->
+:::
+
+## Case eight
+
+::: panel-tabset
+### Presentation
+
+A curiosity, to be sure.
+
+### Imaging One
+
+Stare as long as you need to. Ask a friend. 
+
+![](images/caseeightcxr.jpg){width="55%" fig-align="center"}
+  
+### Imaging two
+  
+  ![](images/caseeightct.jpg){width="75%" fig-align="center"}
+
+
+<!----------------------------- CLOSE PANELSET ----------------------------->
+:::
+
+## Case nine
+
+::: panel-tabset
+### Presentation
+
+Chronic renal failure (stent is for catheter-related stenosis).
+
+### Imaging
+
+<br>
+
+::: columns
+::: {.column width="50%"}
+
+![](images/caseninePA.jpg){width="95%" fig-align="center"}
+
+:::
+
+::: {.column width="50%"}
+![](images/caseninelat.jpg){width="70%" fig-align="center"}
+:::
+:::
+
+
+
+
+
+
+<!----------------------------- CLOSE PANELSET ----------------------------->
+:::
+
+
+## Case ten
+
+::: panel-tabset
+### Presentation
+
+Blunt chest trauma
+
+### Imaging One
+
+![](images/casetencxr.jpg){width="60%" fig-align="center"}
+
+### Imaging Two
+
+<br>
+
+::: columns
+::: {.column width="50%"}
+
+![](images/casetenct1.jpg){width="96%" fig-align="center"}
+
+:::
+
+::: {.column width="50%"}
+![](images/casetenct2.jpg){width="70%" fig-align="center"}
+:::
+:::
+
+
+
+
+
+
+
+<!----------------------------- CLOSE PANELSET ----------------------------->
+:::
+
+## Case eleven
+
+::: panel-tabset
+### Presentation
+
+A patient with multiple myeloma.
+
+### Imaging
+
+
+
+![](images/caseelevencxr.jpg){width="60%" fig-align="center"}
+
+
+
+<!----------------------------- CLOSE PANELSET ----------------------------->
+:::
+
+## Case twelve
+
+::: panel-tabset
+### Presentation
+
+Severe focal lower left chest wall pain and firmness on palpation. It has worsened over many months.
+
+
+### Imaging One 
+
+![](images/casetwelvecxr.jpg){width="65%" fig-align="center"}
+
+
+### Imaging Two
+
+
+![](images/casetwelvect.jpg){width="50%" fig-align="center"}
+
+
+
+
+
+
+
+<!----------------------------- CLOSE PANELSET ----------------------------->
+:::
+
+## Case thirteen
+
+::: panel-tabset
+### Presentation
+
+Acute blunt chest trauma
+
+### Radiography
+
+![](images/casethirteenncxr.jpg){width="55%" fig-align="center"}
+
+
+
+<!----------------------------- CLOSE PANELSET ----------------------------->
+:::
+
+
+## Case fourteen
+
+
+
+::: panel-tabset
+### Presentation
+
+Chronic renal failure.
+
+### Imaging
+
+![](images/casefourteencxr.jpg){width="60%" fig-align="center"}
+
+
+<!----------------------------- CLOSE PANELSET ----------------------------->
+:::
+
+
+## Case fifteen
+
+::: panel-tabset
+### Presentation
+
+The patient has no chest-related symptoms.
+
+### Imaging
+
+![](images/casefifteencxr.jpg){width="55%" fig-align="center"}
+
+
+
+
+<!----------------------------- CLOSE PANELSET ----------------------------->
+:::
+
+
+## Case sixteen
+
+::: panel-tabset
+### Presentation
+
+Someone thinks something "extra" is present. Hmm, really ?
+
+### Imaging
+
+
+
+![](images/casesixteenct.jpg){width="60%" fig-align="center"}
+
+
+
+
+<!----------------------------- CLOSE PANELSET ----------------------------->
+:::
+
+
+
+
+
+
+#  {background-iframe="my-iframe/index.html"}
+
+::: {style="font-size: 8em; color: black; text-align: center"}
+Whew, we're done!
+:::
+
