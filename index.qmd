@@ -442,9 +442,6 @@ Someone thinks something "extra" is present. Hmm, really ?
 
 
 
-
-
-
 #  {background-iframe="my-iframe/index.html"}
 
 ::: {style="font-size: 8em; color: black; text-align: center"}
